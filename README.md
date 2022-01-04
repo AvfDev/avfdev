@@ -2,15 +2,16 @@
 <img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <br>
 <br>
 
 ## I'm a Fullstack Developer, music and movies enthusiast
 
-- 🔭 Persistency, consistency and patience.
-- 🌱 Always learning
-- 🥅 2022 Goals: Keep improving tech stack.
-- ⚡ Fun fact: I enjoy producing music.
+-  Persistency, consistency and patience.
+-  Always learning
+-  2022 Goals: Keep improving tech stack.
+-  Fun fact: I enjoy producing music.
 <br>
 <br>
 
@@ -34,7 +35,7 @@
 <br>
 <br>
 
-## Connect with me:
+## Find me on:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
